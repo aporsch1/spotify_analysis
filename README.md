@@ -1,1 +1,2 @@
-# spotify_analysis
+# My Spotify Analysis.
+I thought it would be good practice for me to go through some data and figure out how to pull fun plots and small insights from it and since I listen to a lot of random music I thought it would be a good idea to take a look at the data I have generated in the last year (from November 2022 to November 2023) so that by the time I feel finished with finding results my spotify wrapped will come out and I can compare my silly work with the professionals.
